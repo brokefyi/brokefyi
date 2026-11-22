@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://brokewly.com">
-    <img src="https://brokewly.com/images/og-card.jpg" alt="brokewly — design engineer" width="100%" />
+    <img src="https://brokewly.com/images/og-card.jpg" alt="brokewly, design engineer" width="100%" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ Self-taught design engineer based in Bangladesh (UTC+6). I design interfaces and
 | **Penowly** | Quiet iPhone money journal with voice and receipt capture | SwiftUI |
 | **Cozy notes** | A cozy note-taking app built from scratch (in private development) | macOS, iOS |
 
-*(Most product repos are private right now — happy to walk through code on a call or check [greedui.com](https://greedui.com) and [folio.brokewly.com/#play](https://folio.brokewly.com/#play) for live code.)*
+*(Most product repos are private right now, happy to walk through code on a call or check [greedui.com](https://greedui.com) and [folio.brokewly.com/#play](https://folio.brokewly.com/#play) for live code.)*
 
 ---
 
